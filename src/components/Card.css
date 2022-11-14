@@ -1,0 +1,13 @@
+.card {
+  text-align: center;
+  margin: 60px;
+  background-color: #a1c181;
+}
+
+.card:hover {
+  box-shadow: 6px 5px 0px 2px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 6px 5px 0px 2px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 6px 5px 0px 2px rgba(0, 0, 0, 0.1);
+
+  cursor: pointer;
+}
